@@ -1,6 +1,6 @@
 //Nombre:Fernando Cisneros 
-//Fecha: 18/02/2019
-//Hora: 10:02
+//Time: 18/02/2019
+//Date: 10:02
 	import java.util.Scanner;
 		class programa17binarios{
 		public static void main(String[]args){
